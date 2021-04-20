@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## ECOSYSTEM
 
-You can use the [editor on GitHub](https://github.com/dog-coin/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dogπcoin is an experiment in decentralized spontaneous community building. Dogπcoin is our first token and allows users to hold Billions or even Trillions of them.  Nicknamed the DOGECOIN KILLER, this Heco-20 ONLY token can remain well under a penny and still outpace Dogecoin in a small amount of time (relatively speaking). Popular worldwide, and already up thousands of percent, Dogπcoin ($DOGπ) is the first cryptocurrency token to be listed and incentivized on DOGπSwap, our decentralized exchange.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### HO​W TO BUY
 
-### Markdown
+The only place to buy or sell Dogπ safely is on MDEX. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are some centralized exchanges that have listed Dogπ, but CEXs have a history of locking funds. 
 
-```markdown
-Syntax highlighted code block
+If you can, it is safer to trade on a decentralized exchange like MDEX.
 
-# Header 1
-## Header 2
-### Header 3
+BONE is not available yet , but will be able to acquire soon.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Wallet Download
 
-### Jekyll Themes
+Download address： [huobi wallet](https://www.huobiwallet.com/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dog-coin/home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Dogπ Token Tracker | HecoInfo
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Block： [Dogπ/Heco](https://hecoinfo.com/).
