@@ -20,4 +20,10 @@ Download address： [huobi wallet](https://www.huobiwallet.com/).
 
 ### Dogπ Token Tracker | HecoInfo
 
-Block： [Dogπ/Heco](https://hecoinfo.com/).
+Heco contract address：0xf7c6ad741f116b4054181217e36dd70471fe32fc
+
+Block： [Dogπ/Heco](https://hecoinfo.com/token/0xf7c6ad741f116b4054181217e36dd70471fe32fc).
+
+### Dogπcoin Telegraph
+
+Not open：[Telegraph](#).
