@@ -26,4 +26,16 @@ Block： [Dogπ/Heco](https://hecoinfo.com/token/0xf7c6ad741f116b4054181217e36dd
 
 ### Dogπcoin Telegraph
 
-Not open：[Telegraph](#).
+Dogπcoin✓：[Telegraph](https://0.plus/Dogpcoim).
+
+### Future development plan
+
+With dogΠcoin, we will conduct mainnet mapping in the future. Of course, it is different from dogecoin. We will be based on the MimbleWimble protocol and optimize on this basis.
+
+This will be a long-term development work.
+
+All our developers are anonymous, please follow our [Github](https://github.com/dog-coin).
+
+Our main work at present is to establish a governance community, and you are welcome to join, friends!
+
+
