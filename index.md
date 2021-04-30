@@ -30,7 +30,7 @@ Dogπcoin✓：[Telegraph](https://0.plus/Dogpcoim).
 
 ### Future development plan
 
-With dogΠcoin, we will conduct mainnet mapping in the future. Of course, it is different from dogecoin. We will be based on the MimbleWimble protocol and optimize on this basis.
+In the future, we will establish dogπswap. Of course, its functions are in the confidential stage.
 
 This will be a long-term development work.
 
