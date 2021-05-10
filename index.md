@@ -36,4 +36,17 @@ All our developers are anonymous, please follow our [Github](https://github.com/
 
 Our main work at present is to establish a governance community, and you are welcome to join, friends!
 
+### Development Plan
+
+The first stage: Initially online, 200,000 currency holding addresses Price ＄0.00000001
+
+The second stage: On-line exchange, 500,000 currency holding addresses Price ＄0.0000001
+
+The third stage: DogπSwap research and development, 1 million currency holding addresses. Price ＄0.000001
+
+The fourth stage: DogπSwap landed on the moon, with 2 million coin holding addresses. Price ＄0.00001
+
+The fifth stage: More creativity, 5 million currency holding addresses Price ＄0.0001
+
+
 
